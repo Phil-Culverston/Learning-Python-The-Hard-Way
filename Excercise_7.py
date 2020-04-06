@@ -1,5 +1,5 @@
 print("Mary had a little lamb.")
-print("It's fleece was white as {}{}".format('snow')) # snow is NOT a variable it is simply a string that is being used for the empty expression {} in the previous string.
+print("It's fleece was white as {}".format('snow')) # snow is NOT a variable it is simply a string that is being used for the empty expression {} in the previous string.
 print("And everywhere that Mary went.")
 print("."* 10) # multiplies the string by 10. Essentially creates a line of dots ..........
 
